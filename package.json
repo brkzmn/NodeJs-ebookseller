@@ -1,8 +1,8 @@
 {
   "name": "nodejs-ebookseller",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "App to sell ebook",
+  "main": "app.js",
   "scripts": {
     "start": "node app.js"
   },
